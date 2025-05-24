@@ -1,0 +1,17 @@
+📦 data-observability-platform/
+├── notebooks/
+│   ├── validador.ipynb               # Validação estrutural e semântica
+│   ├── relatorio_qualidade_dados.ipynb # Análise e visualização de erros
+│   ├── detector_anomalias.ipynb     # Outliers via Z-Score e IQR
+│   └── alertas_automaticos.ipynb    # Gatilho de alerta via SMTP
+├── data/
+│   ├── dados_simulados_com_anomalias.csv
+│   ├── erros_detectados.csv
+│   └── anomalias_detectadas.csv
+├── src/
+│   ├── validador.py
+│   ├── detector_anomalias.py
+│   └── alerta.py
+├── .gitignore
+├── README.md
+└── requirements.txt
