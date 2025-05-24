@@ -1,0 +1,20 @@
+pandas==1.5.3
+numpy==1.22.4
+faker==18.13.0
+matplotlib==3.7.1
+seaborn==0.12.2
+scipy==1.10.1
+python-dotenv==1.0.0
+
+##################
+
+🔎 Detalhes:
+Biblioteca	Uso no Projeto
+pandas	Leitura, transformação e exportação de dados
+numpy	Cálculo de z-score, IQR, clipping de valores
+faker	Simulação de dados empresariais realistas
+matplotlib	Visualizações (boxplots, gráficos)
+seaborn	Gráficos estatísticos com estética melhorada
+scipy	Reforço estatístico (z-score alternativo, se necessário)
+python-dotenv	Leitura segura de variáveis de ambiente
+✅ Essas libs são todas compatíveis com execução local e online (Colab).
