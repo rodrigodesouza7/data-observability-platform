@@ -1,9 +1,12 @@
-# data-observability-platform
-Plataforma modular para monitoramento de qualidade, latência e anomalias em dados empresariais simulados
-
 📘 Data Observability Platform
 
 Plataforma modular e escalável para monitoramento da qualidade, latência e anomalias em fluxos de dados empresariais simulados.
+
+# 🧪 Monitoramento de Qualidade de Dados e Detecção de Anomalias
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
+
 
 Projeto 100% executado online com ferramentas gratuitas. Ideal para aplicar práticas de Engenharia de Dados, Arquitetura de Software e Ciência de Dados com foco em observabilidade.
 🎯 Objetivo Geral
@@ -67,13 +70,23 @@ Use senhas de app com 2FA.
 Ou configure via variáveis de ambiente:
 import os
 senha_app = os.getenv("SENHA_GMAIL_APP")
-🏆 Status do Projeto
-✅ Concluído conforme planejamento original.
-📁 Pronto para demonstração, portfólio, e evolução futura com dashboards ou CI/CD.
-📚 Autor
-[Rodrigo]
-Profissional de Tecnologia da Informação | Bacharel em Sistemas de Informação
-Pós-graduação em Data Science, Machine Learning & IA
+
+👤 Sobre o Autor
+Rodrigo de Souza Silva
+**Rodrigo de Souza Silva**  
+Profissional de Tecnologia da Informação com formação em Sistemas de Informação e pós-graduação em Data Science & Machine Learning. Atua no desenvolvimento de projetos práticos com Python, APIs REST, automações e análise de dados, aplicando os conhecimentos adquiridos em formação técnica e cursos especializados.
+
+Apaixonado por dados, boas práticas de código e soluções que unem lógica, organização e utilidade real.
+
+- [LinkedIn](https://www.linkedin.com/in/rodrigodesouzasilva)  
+- [GitHub](https://github.com/rodrigodesouza7)
+
+---
+
+## 📜  Licença
+
+Este projeto está licenciado sob os termos da licença [MIT](https://opensource.org/licenses/MIT).  
+Você pode usar, modificar e distribuir com os devidos créditos ao autor.
 
 
 
