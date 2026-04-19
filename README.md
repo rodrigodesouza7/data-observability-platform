@@ -71,22 +71,21 @@ Ou configure via variáveis de ambiente:
 import os
 senha_app = os.getenv("SENHA_GMAIL_APP")
 
-👤 Sobre o Autor
-Rodrigo de Souza Silva
-**Rodrigo de Souza Silva**  
-Profissional de Tecnologia da Informação com formação em Sistemas de Informação e pós-graduação em Data Science & Machine Learning. Atua no desenvolvimento de projetos práticos com Python, APIs REST, automações e análise de dados, aplicando os conhecimentos adquiridos em formação técnica e cursos especializados.
+## 👤 Sobre o Autor
 
-Apaixonado por dados, boas práticas de código e soluções que unem lógica, organização e utilidade real.
+**Rodrigo de Souza Silva**
+Profissional de Tecnologia da Informação com formação em Sistemas de Informação e pós-graduação em Data Science, Machine Learning e IA.
 
-- [LinkedIn](https://www.linkedin.com/in/rodrigodesouzasilva)  
-- [GitHub](https://github.com/rodrigodesouza7)
+* 🔗 LinkedIn: https://www.linkedin.com/in/rodrigodesouzasilva
+* 💻 GitHub: https://github.com/rodrigodesouza7
 
 ---
 
-## 📜  Licença
+## 📄 Licença
 
-Este projeto está licenciado sob os termos da licença [MIT](https://opensource.org/licenses/MIT).  
+Este projeto está licenciado sob os termos da licença MIT.
 Você pode usar, modificar e distribuir com os devidos créditos ao autor.
+
 
 
 
